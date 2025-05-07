@@ -1,6 +1,6 @@
 projects:
   - title: "Study Abroad Profile"
-    subtitle: "Balid, Indonesia"
-    thumbnail: "/assets/projects/study_abroad_profile.jpg"
+    subtitle: "Bali, Indonesia"
+    thumbnail: "assets/projects/study_abroad_profile.jpg"
     url: "projects/study_abroad_profile.html"
     selected: y
