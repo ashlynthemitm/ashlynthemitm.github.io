@@ -33,7 +33,7 @@ Throughout the trip, I reflected on concepts like dignity, cultural preservation
 
 You can view the full **visual profile and travel profile** I created here:
 
-<iframe src="/assets/projects/2022_bali-study-abroad/profile.html" width="100%" height="800px" style="border:none;"></iframe>
+<iframe src="/assets/projects/2022_bali-study-abroad/study_abroad_profile.html" width="100%" height="800px" style="border:none;"></iframe>
 
 **Key Takeaways.**
 - Experiential learning expands how I define knowledge, especially outside of formal STEM environments.
