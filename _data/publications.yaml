@@ -1,5 +1,11 @@
 papers:
 
+  - title: "An Ontology for Theoretical Interpretation of Persistence in Computing Education"
+    authors: "<b>Ashlyn Campbell</b>, Anu Bourgeois, Mario Kubek"
+    venue: "IEEE FIE 2025"
+    paper_pdf: ""
+    selected: y
+  
   - title: "RISE Stars: An Experience Report on a Cohort of Black Freshmen Women in Computing"
     authors: "<b>Ashlyn Campbell</b>, Anu Bourgeois, Nannette Napier"
     venue: "ACM SIGCSE 2025"
@@ -10,4 +16,11 @@ papers:
     authors: "<b>Ashlyn Campbell</b>"
     venue: "NSBE 50th Conference: Technical Research Exhibition"
     paper_pdf: "/assets/publications/2024_nsbe/poster.pdf"
-    selected: y
+    selected: n
+
+  - title: "The Ontological-Centered Toolkit"
+    authors: "<b>Ashlyn Campbell</b>"
+    venue: Georgia State Undergraduate Research Conference (GSURC)"
+    paper_pdf: "/assets/publications/2025_gsurc/poster.pdf"
+    selected: n
+
