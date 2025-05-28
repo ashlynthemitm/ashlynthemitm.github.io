@@ -1,12 +1,12 @@
 experiences:
 
-- place: "University of Michigan"
-  time: "2025 - present"
-  title: "PhD Student"
-  subtitle: "School of Information"
-  category: "school"
+# - place: "University of Michigan"
+#   time: "2025 - present"
+#   title: "PhD Student"
+#   subtitle: "School of Information"
+#   category: "school"
 
-- place: "Lawerence Livermore National Laboratory"
+- place: "Lawrence Livermore National Laboratory"
   time: "Summer 2025"
   title: "Graduate Researcher"
   subtitle: "Data Science Institute"
