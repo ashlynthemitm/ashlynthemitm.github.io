@@ -1,6 +1,6 @@
 # projects:
-#   - title: "Study Abroad Profile"
-#     subtitle: "Bali, Indonesia"
-#     thumbnail: "assets/projects/2022_bali-study-abroad/group4/SaraswatiDay1.jpg"
-#     url: "projects/study_abroad_profile.html"
-#     selected: y
+  - title: "Study Abroad Profile"
+    subtitle: "Bali, Indonesia"
+    thumbnail: "assets/projects/2022_bali-study-abroad/group4/SaraswatiDay1.jpg"
+    url: "projects/study_abroad_profile.html"
+    selected: y
