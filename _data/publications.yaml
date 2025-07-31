@@ -12,15 +12,16 @@ papers:
     paper_pdf: "/assets/publications/2025_sigcse/paper.pdf"
     selected: y
 
+posters:
   - title: "Maternal Health Monitor+: A Personalized Computational Framework for Early Detection and Intervention"
     authors: "<b>Ashlyn Campbell</b>"
     venue: "NSBE 50th Conference: Technical Research Exhibition"
-    paper_pdf: "/assets/publications/2024_nsbe/poster.pdf"
+    poster: "/assets/publications/2024_nsbe/poster.pdf"
     selected: n
 
   - title: "The Ontological-Centered Toolkit"
     authors: "<b>Ashlyn Campbell</b>"
     venue: "Georgia State Undergraduate Research Conference (GSURC)"
-    paper_pdf: "/assets/publications/2025_gsurc/poster.pdf"
+    poster: "/assets/publications/2025_gsurc/poster.pdf"
     selected: n
 
