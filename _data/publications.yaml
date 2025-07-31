@@ -12,7 +12,6 @@ papers:
     paper_pdf: "/assets/publications/2025_sigcse/paper.pdf"
     selected: y
 
-posters:
   - title: "Maternal Health Monitor+: A Personalized Computational Framework for Early Detection and Intervention"
     authors: "<b>Ashlyn Campbell</b>"
     venue: "NSBE 50th Conference: Technical Research Exhibition"
