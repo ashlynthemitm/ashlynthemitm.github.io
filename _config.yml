@@ -1,8 +1,8 @@
 source:      .
 destination: ./_site
 includes:    ./_includes
-# baseurl: /ashlyn
-baseurl: /
+baseurl: /ashlyn/
+# baseurl: /
 
 collections:
   projects:
