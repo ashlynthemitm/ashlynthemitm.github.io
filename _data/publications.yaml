@@ -1,10 +1,10 @@
 papers:
 
-  # - title: "An Ontology for Theoretical Interpretation of Persistence in Computing Education"
-  #   authors: "<b>Ashlyn Campbell</b>, Anu Bourgeois, Mario Kubek"
-  #   venue: "IEEE FIE 2025"
-  #   paper_pdf: ""
-  #   selected: y
+  - title: "The Double Bind: The Reality of Generative AI in the Introductory Computing Sequence"
+    authors: "<b>Ashlyn Campbell</b>, Angela D.R. Smith"
+    venue: "Submitted"
+    paper_pdf: ""
+    selected: y
   
   - title: "RISE Stars: An Experience Report on a Cohort of Black Freshmen Women in Computing"
     authors: "<b>Ashlyn Campbell</b>, Anu Bourgeois, Nannette Napier"
@@ -12,17 +12,17 @@ papers:
     paper_pdf: "/assets/publications/2025_sigcse/paper.pdf"
     selected: y
 
-  - title: "Convolutional Neural Networks for UV-Visible Spectroscopic Analysis of Chromatographic Effluents"
-    authors: "<b>Ashlyn Campbell</b>, Camila C. Gonzalez, Saurabh Narain, and Tsuyoshi A. Kohlgruber"
-    venue: "Computing Scholars Showcase 2025"
-    poster: "/assets/publications/2025_dssi/poster.pdf"
-    selected: n
+  # - title: "Convolutional Neural Networks for UV-Visible Spectroscopic Analysis of Chromatographic Effluents"
+  #   authors: "<b>Ashlyn Campbell</b>, Camila C. Gonzalez, Saurabh Narain, and Tsuyoshi A. Kohlgruber"
+  #   venue: "Computing Scholars Showcase 2025"
+  #   poster: "/assets/publications/2025_dssi/poster.pdf"
+  #   selected: n
 
-  - title: "DSSI Challenge Problem: Computer Vision for Laboratory Automation"
-    authors: "<b>Ashlyn Campbell</b>, Savvas Marcou, Ethan Pawl, Forough Hammond, Seoyeong Park"
-    venue: "Data Science Summer Institute (DSSI) 2025"
-    slides: "/assets/publications/2025_dsc/poster.pptx"
-    selected: n
+  # - title: "DSSI Challenge Problem: Computer Vision for Laboratory Automation"
+  #   authors: "<b>Ashlyn Campbell</b>, Savvas Marcou, Ethan Pawl, Forough Hammond, Seoyeong Park"
+  #   venue: "Data Science Summer Institute (DSSI) 2025"
+  #   slides: "/assets/publications/2025_dsc/poster.pptx"
+  #   selected: n
 
   - title: "Maternal Health Monitor+: A Personalized Computational Framework for Early Detection and Intervention"
     authors: "<b>Ashlyn Campbell</b>"
@@ -30,9 +30,9 @@ papers:
     poster: "/assets/publications/2024_nsbe/poster.pdf"
     selected: n
 
-  - title: "The Ontological-Centered Toolkit"
-    authors: "<b>Ashlyn Campbell</b>"
-    venue: "Georgia State Undergraduate Research Conference (GSURC)"
-    poster: "/assets/publications/2025_gsurc/poster.pdf"
-    selected: n
+  # - title: "The Ontological-Centered Toolkit"
+  #   authors: "<b>Ashlyn Campbell</b>"
+  #   venue: "Georgia State Undergraduate Research Conference (GSURC)"
+  #   poster: "/assets/publications/2025_gsurc/poster.pdf"
+  #   selected: n
 
