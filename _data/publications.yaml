@@ -1,9 +1,9 @@
 papers:
 
-  - title: "The Equity Question in Generative AI"
+  - title: "The Double Bind: Understanding Equity in the Context of Generative AI in Computing Education"
     authors: "<b>Ashlyn Campbell</b>, Angela D.R. Smith"
     venue: "ACM RESPECT 2026"
-    paper_pdf: ""
+    paper_pdf: "/assets/publications/2026_respect/paper.pdf"
     selected: y
   
   - title: "RISE Stars: An Experience Report on a Cohort of Black Freshmen Women in Computing"
