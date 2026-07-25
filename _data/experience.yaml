@@ -39,7 +39,7 @@ experiences:
 - place: "Clemson University"
   time: "Spring 2025"
   title: "Research Assistant"
-  subtitle: "Human & Technology Lab"
+  subtitle: "Human & Technology (HAT) Lab"
   category: "work"
 
 - place: "Microsoft"
@@ -54,15 +54,15 @@ experiences:
   subtitle: "Introduction to Python 1 & 2 <br/> Software Engineering Capstone"
   category: "work"
 
-- place: "RTX"
+- place: "Collins Aerospace"
   time: "Spring/Summer 2023"
   title: "Software Engineer, Intern"
-  subtitle: "Image Processing"
+  subtitle: "Image Analytics"
   category: "work"
 
 - place: "Georgia Community Action Association"
   time: "2022 - 2023"
   title: "Data Analyst, Intern"
-  subtitle: "Office of Executive Director"
+  subtitle: "Office of the Executive Director"
   category: "work"
 

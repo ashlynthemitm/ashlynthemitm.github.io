@@ -1,9 +1,0 @@
-papers:
-
-  - title: "Thinking Critically About Large Language Models"
-    authors: "<b>Ashlyn Campbell</b>, Xingjian (Lance) Gu"
-    venue: "University of Michigan School of Information Summer Camp"
-    paper_pdf: "/assets/publications/2026_respect/paper.pdf"
-    slides: "/assets/publications/2026_respect/slides.pdf"
-    selected: y
-  

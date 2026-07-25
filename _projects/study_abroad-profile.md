@@ -6,7 +6,7 @@ title: Follow-On Service Project
 In 2023, I was awarded the Benjamin Gilman International Scholarship to study abroad in **Bali, Indonesia** through Georgia State University’s _Bali Adventure: Culture & Sustainability_ program. As a Gilman Scholar, it is my responsibility to share resources with other students interested in studying abroad ([view my tips](#gilman-tips)).
 Additionally, I have documented each day like a story: the food, the ceremonies, the homestays, the NGOs we visited, and the people who shaped the experience. This page is my follow-on service project or study abroad profile: a visual and narrative walkthrough of those 11 days in Bali.
 <style>
-  /* Keep your collage styling exactly the same */
+
   .project-image-container img {
     width: 600px !important;
     height: 600px !important;
@@ -15,18 +15,16 @@ Additionally, I have documented each day like a story: the food, the ceremonies,
     margin: 0 auto;
   }
 
-  /* Day layout: STACK text + collage */
   .day-row {
-    display: block;   /* <-- was flex; now stack */
+    display: block;  
     margin-top: 1.5rem;
   }
 
   .day-text {
-    margin-bottom: 1.25rem;  /* space between text and collage */
+    margin-bottom: 1.25rem; 
     max-width: 650px;
   }
 
-/* ---- DAY 3 SPECIAL LAYOUT ---- */
 .day-row--with-video {
   display: flex;
   flex-wrap: wrap;
@@ -34,13 +32,11 @@ Additionally, I have documented each day like a story: the food, the ceremonies,
   align-items: flex-start;
 }
 
-/* Left side text */
 .day-row--with-video .day-text {
   flex: 1 1 350px;
   min-width: 300px;
 }
 
-/* Right side video */
 .day-row--with-video .day-video {
   flex: 0 0 320px;
   max-width: 380px;
@@ -53,13 +49,12 @@ Additionally, I have documented each day like a story: the food, the ceremonies,
   display: block;
 }
 
-/* Collage under both */
+
 .day-row--with-video .day-collage {
-  flex-basis: 100%;      /* forces it onto its own row */
+  flex-basis: 100%;     
   margin-top: 1.5rem;
 }
 
-/* Your collage grid still works */
 .day-collage-grid {
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(140px, 1fr));
@@ -91,7 +86,6 @@ Additionally, I have documented each day like a story: the food, the ceremonies,
     width: 100%;
   }
 
-  /* COLLAGE: keep EXACT same style */
   .day-collage-grid {
     display: grid;
     grid-template-columns: repeat(auto-fill, minmax(140px, 1fr));
@@ -119,7 +113,6 @@ Additionally, I have documented each day like a story: the food, the ceremonies,
     }
   }
 
-  /* Gilman tips unchanged */
   .gilman-tips .tips-flow {
     display: flex;
     flex-wrap: wrap;
