@@ -9,8 +9,8 @@ In 2026 the University of Michigan's School of Information hosted a summer camp 
 
 To support educators, students, and others interested in critical AI literacy, I have included the workshop resources developed for this session. These materials include the workshop agenda, instructional slides, and an example of a student presentation addressing a common misconception about large language models.
 
-- [Workshop Agenda](https://docs.google.com/document/d/1geVQDZutGUZZJuyJ9i9NN0N_HxvQRvDGO4Ww4w-C_RE/edit?usp=sharing)
+✦ [Workshop Agenda](https://docs.google.com/document/d/1geVQDZutGUZZJuyJ9i9NN0N_HxvQRvDGO4Ww4w-C_RE/edit?usp=sharing)
 
-- [Workshop Slides](https://drive.google.com/file/d/1HZj7CoNxAmFcIdIZ2px-tZtxsf6zLbmX/view?usp=sharing)
+✦ [Workshop Slides](https://drive.google.com/file/d/1HZj7CoNxAmFcIdIZ2px-tZtxsf6zLbmX/view?usp=sharing)
 
-- [Student Presentation Example](https://docs.google.com/presentation/d/1Yb6u3UIp_r5pe_0CCx9M6g9TNJdKrDt4/edit?usp=sharing&ouid=101240431334884931526&rtpof=true&sd=true)
+✦ [Student Presentation Example](https://docs.google.com/presentation/d/1Yb6u3UIp_r5pe_0CCx9M6g9TNJdKrDt4/edit?usp=sharing&ouid=101240431334884931526&rtpof=true&sd=true)
