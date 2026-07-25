@@ -1,19 +1,19 @@
 projects:
-  # - title: "Thinking Critically About Large Language Models"
-  #   subtitle: "University of Michigan School of Information Summer Camp"
-  #   thumbnail: "assets/projects/2026_umsi/thumbnail.png"
-  #   url: "projects/2026_umsi-profile.html"
-  #   selected: y
-  #   - title: "She Won't Just Play the Game — She'll Build It"
-  #   subtitle: "Black Girls Code Detroit"
-  #   thumbnail: "assets/projects/2026_bgc/thumbnail.png"
-  #   url: "projects/2026_bgc-profile.html"
-  #   selected: y
-  #   - title: "You Don’t Have to Do This Alone: Building Community for Graduate Applications"
-  #   subtitle: "ACM Richard Tapia Conference"
-  #   thumbnail: "assets/projects/2026_tapia/thumbnail.png"
-  #   url: "projects/2026_tapia-profile.html"
-  #   selected: y
+  - title: "Thinking Critically About Large Language Models"
+    subtitle: "University of Michigan School of Information Summer Camp"
+    thumbnail: "assets/projects/2026_umsi/thumbnail.png"
+    url: "projects/2026_umsi-profile.html"
+    selected: y
+    - title: "She Won't Just Play the Game — She'll Build It"
+    subtitle: "Black Girls Code Detroit"
+    thumbnail: "assets/projects/2026_bgc/thumbnail.png"
+    url: "projects/2026_bgc-profile.html"
+    selected: y
+    - title: "You Don’t Have to Do This Alone: Building Community for Graduate Applications"
+    subtitle: "ACM Richard Tapia Conference"
+    thumbnail: "assets/projects/2026_tapia/thumbnail.png"
+    url: "projects/2026_tapia-profile.html"
+    selected: y
   - title: "Benjamin Gilman International Scholarship"
     subtitle: "Bali, Indonesia"
     thumbnail: "assets/projects/2023_bali-study-abroad/thumbnail.png"
