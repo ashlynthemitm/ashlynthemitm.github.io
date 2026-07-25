@@ -1,6 +1,13 @@
 projects:
-  - title: "Gilman Follow-On Service Project"
+
+  - title: "National Science Foundation (NSF) Graduate Research Fellowship"
+    subtitle: "STEM Education & Artificial Intelligence"
+    thumbnail: "assets/projects/2026_nsf/thumbnail.png"
+    url: "projects/study_abroad-profile.html"
+    selected: y
+  - title: "Benjamin Gilman International Scholarship"
     subtitle: "Bali, Indonesia"
     thumbnail: "assets/projects/2023_bali-study-abroad/thumbnail.png"
-    url: "projects/study_abroad-profile.html"
+    # url: "projects/study_abroad-profile.html"
+    url: "assets/projects/2023_bali-study-abroad/study_abroad-profile.md"
     selected: y
