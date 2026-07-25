@@ -4,10 +4,10 @@ title: Follow-On Service Project
 ---
 
 In 2023, I was awarded the Benjamin Gilman International Scholarship to study abroad in **Bali, Indonesia** through Georgia State University’s _Bali Adventure: Culture & Sustainability_ program. As a Gilman Scholar, it is my responsibility to share resources with other students interested in studying abroad ([view my tips](#gilman-tips)).
-Additionally, I have documented each day like a story: the food, the ceremonies, the homestays, the NGOs we visited, and the people who shaped the experience. This page is an extension of my follow-on service project or [study abroad profile](/profile): a visual and narrative walkthrough of those 11 days in Bali.
+Additionally, I have documented each day like a story: the food, the ceremonies, the homestays, the NGOs we visited, and the people who shaped the experience. This page is an extension of my follow-on service project or [study abroad profile](https://www.ashlyncampbell.com/profile): a visual and narrative walkthrough of those 11 days in Bali.
 
 <style>
-
+x
   .project-image-container img {
     width: 600px !important;
     height: 600px !important;
