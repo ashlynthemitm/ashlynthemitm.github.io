@@ -4,7 +4,7 @@ title: Follow-On Service Project
 ---
 
 In 2023, I was awarded the Benjamin Gilman International Scholarship to study abroad in **Bali, Indonesia** through Georgia State University’s _Bali Adventure: Culture & Sustainability_ program. As a Gilman Scholar, it is my responsibility to share resources with other students interested in studying abroad ([view my tips](#gilman-tips)).
-Additionally, I have documented each day like a story: the food, the ceremonies, the homestays, the NGOs we visited, and the people who shaped the experience. This page is an extension of my follow-on service project or [study abroad profile](https://www.ashlyncampbell.com/profile): a visual and narrative walkthrough of those 11 days in Bali.
+Additionally, I have documented each day like a story: the food, the ceremonies, the homestays, the NGOs we visited, and the people who shaped the experience. This page is an extension of my follow-on service project or [study abroad profile](https://www.ashlyncampbell.com/profile) that I created for other GSU students. I hope that you enjoy this visual narrative walkthrough of my 11 days in Bali where I studied Balinese cultural food, religion, and service.
 
 <style>
 x
@@ -143,14 +143,14 @@ x
   <div class="container">
     <div class="day-row">
       <div class="day-text">
-        <h4 class="section-header">Day 1 – Arrival in Bali and first impressions</h4>
+        <h4 class="section-header">Day 1 – Arrival in Bali</h4>
         <p>
-          After more than 24 hours of connected flights, we finally landed in Bali and made our way to Ubud. 
+          After more than 24 hours of connected flights from Atlanta to Qatar, we finally landed in Bali and made our way to Ubud. 
           I still remember the mix of exhaustion and excitement stepping off the plane and realizing I was on 
           the other side of the world. We checked into our first hotel and my joy was honestly unmatched. 
           Our first traditional Balinese breakfast on the rooftop set the tone for the trip: full plates, shared tables, 
           and a lot of laughter. Later, we met our leaders Rika, Dayu, and Yudha for orientation, where they introduced us to 
-          Balinese culture with a scavenger hunt through town. We spoke to locals to learn how to make offerings, and it already felt like the start of something much bigger than a class.
+          Balinese culture with a scavenger hunt through town. We spoke to locals to learn how to make traditional Balinese offerings, and it already felt like the start of something much bigger than a class.
         </p>
       </div>
 
@@ -180,16 +180,14 @@ x
     <div class="day-row day-row--with-video">
 
       <div class="day-text">
-        <h4 class="section-header">Day 2 – Herbal walk and holy spring water</h4>
+        <h4 class="section-header">Day 2 – Temples & Trails</h4>
         <p>
           Day two was all about nature. We went on an herbal walk along a beautiful trail, 
           tasted tea and learned about plants like morning glory, a bright blue flower that is both powerful 
           and dangerous. After the walk we traveled to Mengening Holy Spring Water Temple, one of my favorite 
           places of the entire trip. There we learned about the sacred meaning of water in Balinese culture and 
           reflected on how people cleanse the body, mind and soul. Standing by the fountains, hearing the 
-          meaning behind it was easy to understand why water is seen 
-          as the best confession element, because it can keep a secret. The entire day felt like a lesson in how 
-          nature and spirituality are deeply connected.
+          meaning behind it was easy to understand why water is seen as the best confession element, because it can keep a secret. I always had a connection to water as an avid swimmer, but this lesson brought me a lot closer to the its spiritually. The entire day felt like a lesson in how nature and spirituality are deeply connected.
         </p>
       </div>
 
@@ -227,11 +225,9 @@ x
   <div class="container">
     <div class="day-row">
       <div class="day-text">
-        <h4 class="section-header">Day 3 – Volcano views and coffee stories</h4>
+        <h4 class="section-header">Day 3 – Volcano views and coffee tasting</h4>
         <p>
-          On day three we began with a visit to a local coffee plantation, tasted a variety of blends and learned how coffee is grown, processed and shared.
-          Next we headed to Kintamani for lunch with a view of Mount Batur. Eating while looking out over the volcano felt surreal and made me feel even more present in Bali.
-          The food was delicious and the view made it even better.
+          On day three we began with a visit to a local coffee plantation, tasted a variety of blends and learned how coffee is grown, processed and shared. Next we headed to Kintamani for lunch with a view of Mount Batur. Eating while looking out over the volcano felt surreal and made me feel even more present in Bali. The food was delicious and the view made it even better.
         </p>
       </div>
 
@@ -259,10 +255,8 @@ x
       <div class="day-text">
         <h4 class="section-header">Day 4 – Community Arts</h4>
         <p>
-          Day four was full of culture, performance and conversations with the community. We began the day at a Banjar, or community center, 
-          where we learned traditional gamelan music, practiced the legong dance and prepared offerings. 
-          We also visited Museum Wayang and Topeng, a puppet museum where we saw figures like the Barong Plok, 
-          a symbol of goodness against evil. By the end of the day I was tired, but also very aware of how art, ritual and leadership all connect.
+          Day four was full of culture, performance and conversations with the community. We began the day at a Banjar, or community center, where we learned traditional gamelan music, practiced the legong dance and prepared offerings. 
+          We also visited Museum Wayang and Topeng, a puppet museum where we saw figures like the Barong Plok, a symbol of goodness against evil. By the end of the day I was tired, but also very aware of how art, ritual and leadership all connect.
         </p>
       </div>
 
@@ -291,10 +285,9 @@ x
   <div class="container">
     <div class="day-row">
       <div class="day-text">
-        <h4 class="section-header">Day 5 – The Palace & Balinese Dishes</h4>
+        <h4 class="section-header">Day 5 – The Best Breakfast! AND a Palace!</h4>
         <p>
-          Day five we explored Balinese culture even deeper. Balinese food became a favorite of mine and the breakfast this day was a traditional porridge dish served with fresh fruit! We spent dinner at the Blahbatuh Royal Palace, toured the grounds and had the chance to talk with the King and Princess 
-          about politics and daily life in their district. I have always been very open-minded about trying new things and learning through everyday moments, not just through lectures or assignments was amazing.
+          Day five we explored Balinese culture even deeper. Balinese food became a favorite of mine and the breakfast this day was a traditional porridge dish served with fresh fruit! I ate multiple bowls. We spent dinner at the Blahbatuh Royal Palace, toured the grounds and had the chance to talk with the King and Princess about politics and daily life in their district. I have always been very open-minded about trying new things. So having this opportunity to learn through everyday moments, not just through lectures or assignments was amazing.
         </p>
       </div>
 
@@ -317,13 +310,9 @@ x
   <div class="container">
     <div class="day-row">
       <div class="day-text">
-        <h4 class="section-header">Day 6 – Rice fields and community based sustainability</h4>
+        <h4 class="section-header">Day 6 – Rice fields, Conversations on Sustainability, and Giggles</h4>
         <p>
-          Day six was muddy and extremely fun. We learned about the Subak system from with the Five Pillar organization, then walked through rice fields with mud up to our knees and cows nearby. It is not something I would have imagined myself doing before the trip, 
-          but in Bali it felt like the right answer was why not? I realized it was no better time than with Five Pillar, which focuses on sustainable tourism that supports rural communities, 
-          local culture and the environment. Later we visited Kopernik, a non governmental organization (NGO) that experiments with solutions for people living in the last mile. Through projects like Perfect Fit, The Magi Farm and Rumbia, they work on reusable period products, 
-          renewable energy and food waste processing. Hearing about the stigma around periods and how reusable period underwear is helping people push back 
-          against it was one of the biggest takeaways of the day.
+          Day six was muddy and extremely fun. We learned about the Subak system with the Five Pillar organization, then walked through rice fields with mud up to our knees and cows nearby. It is not something I would have imagined myself doing before the trip, but in Bali it felt like the right answer was why not? I realized it was no better time than with Five Pillar. This organization focuses on sustainable tourism that supports rural communities, local culture and the environment. Later we visited Kopernik, a non governmental organization (NGO) that experiments with solutions for people living in the last mile. Through projects like Perfect Fit, The Magi Farm and Rumbia, they work on reusable period products, renewable energy and food waste processing. Hearing about the stigma around periods in Balinese culture and how reusable period underwear is helping people push back against it was one of my biggest takeaways of the day.
         </p>
       </div>
 
@@ -349,9 +338,9 @@ x
   <div class="container">
     <div class="day-row">
       <div class="day-text">
-        <h4 class="section-header">Day 7 – Saraswati Day and ritual offerings</h4>
+        <h4 class="section-header">Day 7 – Saraswati Day</h4>
         <p>
-          Saraswati Day felt both sacred and very personal. The holiday celebrates the day when knowledge is given by God through the goddess Saraswati. 
+          Today was Saraswati Day. Saraswati Day felt both sacred and very personal. The holiday celebrates the day when knowledge is given by God through the goddess Saraswati. 
           We visited Samuan Tiga Temple and were guided by Garrett Kam as we learned about the ceremony and participated in a Balinese prayer. 
           I prepared my own offering and one of the most powerful parts of the experience was being guided to pray specifically for my dreams, my family, my career and prosperity. It felt like a moment of alignment between where I was and where I hope to go.
         </p>
@@ -385,10 +374,8 @@ x
         <h4 class="section-header">Day 8 – The Community Centre</h4>
         <p>
           Day eight brought together hard truths and deep care. We visited PKP Community Centre, founded by Ibu Sari Pollen, 
-          who dedicated her life to supporting vulnerable women and children after her own experience with divorce and being separated 
-          from her children. At PKP we spoke with her for hours about how community, housing and safety shape women’s lives in Bali. It was emotional and eye opening. 
-          I also felt how much our guides, Dayu and Rika, had become friends and anchors for all of us by that point. 
-          Later, we visited Ubad Ubud for a cooking class and I tried my best to remember each recipe.
+          who dedicated her life to supporting vulnerable women and children after her own experience with divorce and being separated from her children. At PKP we spoke with her for hours about the necessity of centers for community, housing and safety for improving the lives of women in Bali. It was emotional and eye opening. 
+          I also began to reflect on how close I became to our guides, Dayu and Rika, who became friends for all of us by this point. Later, we visited Ubad Ubud for a cooking class and I loved the food as always. 
         </p>
       </div>
 
@@ -420,10 +407,9 @@ x
         <h4 class="section-header">Day 9 – Trekking and Tea </h4>
         <p>
           Day nine was all about movement and perspective. We went on a trek to the Tenganan Indigenous Village and it was both beautiful and challenging. 
-          I love to hike and this one pushed me in the best way. We crossed a bamboo bridge that I walked across as quickly as I could, 
-          phone tucked safely away. The route took around four hours and every turn gave us a new view of waterfalls, cliffs and village life. We also had tea at Made Tea, 
-          learning how local plants and herbs are turned into blends meant to support health, happiness and wellbeing in the community.
-          Today was a reminder that understanding a place can also mean feeling it with your body, step by step.
+          I love to hike and this one pushed me in the best way. We crossed a bamboo bridge that I walked across as quickly as I could and ensured my phone was tucked safely away. The route took around four hours and every turn gave us a new view of waterfalls, cliffs and village life. We also had tea at Made Tea, 
+          learning how local plants and herbs are turned into blends meant to support health, happiness and wellbeing in the community. It was a beautiful tea party and the owner actually showed us her garden aftwards!
+          Today was a reminder that understanding a place can also mean feeling it with your body, step by step. 
         </p>
       </div>
 
@@ -449,11 +435,11 @@ x
   <div class="container">
     <div class="day-row">
       <div class="day-text">
-        <h4 class="section-header">Day 10 – Ocean time, snorkeling and community support</h4>
+        <h4 class="section-header">Day 10 – Time to Swim and Give back!</h4>
         <p>
           Day ten blended joy, awe and service. The night before we drove to Amed, where our hotel was right on the beach. 
           I woke up very early to watch the sunrise over the water and it was completely worth it. 
-          Later we had a snorkeling lesson, then spent hours in the ocean seeing coral reef life up close. 
+          Later we had a snorkeling lesson, then spent hours in the ocean seeing coral reef life up close. I love to swim and was so happy to be in the water for hours.
           The water felt amazing and the experience was so surreal that I barely remembered to take photos. 
           We also volunteered with Scholars of Sustenance, or SOS, helping prepare 200 plates of food for children at a local school. 
           It felt good to give back in a tangible way in the middle of a trip that had already given me so much.
@@ -482,14 +468,14 @@ x
   <div class="container">
     <div class="day-row">
       <div class="day-text">
-        <h4 class="section-header">Day 11 – Closing reflections and leaving Bali</h4>
+        <h4 class="section-header">Day 11 – Leaving Bali</h4>
         <p>
           Our last full day in Bali held a mix of free time, small adventures and the reality that the trip was ending. 
           We headed to Sanur and I could feel how much I did not want the trip to be over. 
           With some free time, I decided to finally go jet skiing, something I had always wanted to do. 
           I went by myself, felt safe the whole time and met people who made the experience even better. 
           That night our leaders surprised us with a goodbye dinner on the beach that was beautiful and bittersweet. 
-          On our final day we went to Krisna Oleh Oleh Bali to pick up souvenirs, including a pink bag I still love. 
+          On our final day we went to Krisna Oleh Oleh Bali to pick up souvenirs, including a pink bag I still love and wear frequently. 
           Saying goodbye at the airport was hard. I left feeling that this study abroad experience was everything I had hoped for and so much more, 
           and I still find it hard to put all of my feelings into one sentence. What I do know is that I love Bali and I will be back.
         </p>
