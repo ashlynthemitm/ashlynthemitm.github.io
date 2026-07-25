@@ -6,7 +6,7 @@ title: RISE Stars Program
 Reaching for Inclusion, Striving for Excellence in Computing Stars (RISE Stars) is a targeted initative, intervention, and socio-academic counterspace aimed at broadening participation in the computing. We sought to do so by supporting the social, academic and professional success of freshmen and sophomore Black women in computer science at Georgia State University. I created and led this program for two years alongside Dr. Anu Bourgeois, a full professor in the Department of Computer Science. During my time I created several workshops and events for students to learn advanced programming concepts, take steps to break into the technical industry and bond with like-minded peers. A core component of the program was near-peer mentorship, where upperclass students mentored the Stars to create full stack technical projects and later computing research projects. Many of the students in this program secured internships at top companies like Uber, Duolingo, GoDaddy, and Microsoft. We published the results of this program at ACM SIGCSE 2025 and are actively working on additional publications. Please explore the projects that students created over the years below!
 
 <div style="text-align: center;">
-  <img src="/assets/projects/2026_rise/img/main.png" alt="The students working together on a case study." style="max-width: 100%; width: 700px;">
+  <img src="/assets/projects/2025_rise/img/main.png" alt="The students working together on a case study." style="max-width: 100%; width: 700px;">
 </div>
 
 ### Technical Projects
