@@ -7,37 +7,10 @@ In 2026 the University of Michigan's School of Information hosted a summer camp 
 
 ### Workshop Materials
 
-#### Agenda
+To support educators, students, and others interested in critical AI literacy, I have included the workshop resources developed for this session. These materials include the workshop agenda, instructional slides, and an example of a student presentation addressing a common misconception about large language models.
 
-<div style="text-align:center;">
-<iframe
-  src="https://drive.google.com/file/d/1aWkb7bN-avALOiLxaK3iUjfG_m5AiSui/view?usp=sharing"
-  width="100%"
-  height="700"
-  style="border:none;">
-</iframe>
-</div>
+- [Workshop Agenda](https://docs.google.com/document/d/1geVQDZutGUZZJuyJ9i9NN0N_HxvQRvDGO4Ww4w-C_RE/edit?usp=sharing)
 
----
+- [Workshop Slides](https://drive.google.com/file/d/1HZj7CoNxAmFcIdIZ2px-tZtxsf6zLbmX/view?usp=sharing)
 
-#### Slides
-
-<div style="text-align:center;">
-<iframe
-  src="https://drive.google.com/file/d/1HZj7CoNxAmFcIdIZ2px-tZtxsf6zLbmX/view?usp=sharing"
-  width="100%"
-  height="700"
-  style="border:none;">
-</iframe>
-</div>
-
-#### Student Presentation Example
-
-This example showcases one team's presentation addressing a common misconception about large language models: that they can think just like humans!
-
-<iframe
-  src="https://docs.google.com/presentation/d/1zegT2PQpPMNQ3lRtSExYesJRxzl7l6fMsWvrri0pShs/edit?usp=sharing"
-  width="100%"
-  height="700"
-  style="border:none;">
-</iframe>
+- [Student Presentation Example](https://docs.google.com/presentation/d/1Yb6u3UIp_r5pe_0CCx9M6g9TNJdKrDt4/edit?usp=sharing&ouid=101240431334884931526&rtpof=true&sd=true)
