@@ -4,23 +4,67 @@ title: Home
 ---
 
 <style>
-.quote blockquote p {
-  font-size: 2rem;
-  line-height: 1.4;
-}
 
-.quote figcaption {
-  font-size: 1rem;
-}
 </style>
 
 <!-- ========== QUOTE ========== -->
 
 
+<style>
+  .quote {
+    position: relative;
+    max-width: 700px;
+    margin: 60px auto;
+    padding: 40px 70px;
+    text-align: center;
+  }
+
+  .quote blockquote {
+    position: relative;
+    margin: 0;
+    color: #e0218a; /* Barbie pink */
+    font-size: 1.5rem;
+    font-weight: 600;
+    line-height: 1.5;
+  }
+
+  /* Large opening quotation mark */
+  .quote blockquote::before {
+    content: "“";
+    position: absolute;
+    left: -55px;
+    top: -45px;
+    font-size: 7rem;
+    line-height: 1;
+    font-family: Georgia, serif;
+    color: #e0218a;
+  }
+
+  /* Large closing quotation mark */
+  .quote blockquote::after {
+    content: "”";
+    position: absolute;
+    right: -55px;
+    bottom: -65px;
+    font-size: 7rem;
+    line-height: 1;
+    font-family: Georgia, serif;
+    color: #e0218a;
+  }
+
+  .quote figcaption {
+    margin-top: 25px;
+    color: #333;
+    font-size: 1rem;
+    font-style: normal;
+    font-weight: 500;
+  }
+</style>
+
 <figure class="quote">
   <blockquote>
     <p>
-       As you enter positions of trust and power, dream a little before you think.
+      As you enter positions of trust and power, dream a little before you think.
     </p>
   </blockquote>
   <figcaption>&mdash; Toni Morrison</figcaption>
