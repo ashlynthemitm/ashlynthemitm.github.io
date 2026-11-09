@@ -10,54 +10,85 @@ title: Home
 <!-- ========== QUOTE ========== -->
 
 
+
 <style>
   .quote {
     position: relative;
     max-width: 700px;
-    margin: 60px auto;
-    padding: 40px 70px;
+    margin: 50px auto;
+    padding: 30px 65px;
     text-align: center;
   }
 
   .quote blockquote {
     position: relative;
     margin: 0;
-    color: #e0218a; /* Barbie pink */
-    font-size: 1.8rem;
-    font-weight: 600;
-    line-height: 1.5;
+    color: #e0218a;
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 1.35rem;
+    font-weight: 400;
+    line-height: 1.7;
+    letter-spacing: 0.2px;
   }
 
-  /* Large opening quotation mark */
+  /* Refined opening quotation mark */
   .quote blockquote::before {
     content: "“";
     position: absolute;
-    left: -55px;
-    top: -45px;
-    font-size: 7rem;
+    left: -38px;
+    top: -25px;
+    font-size: 3.5rem;
     line-height: 1;
     font-family: Georgia, serif;
+    font-weight: 400;
     color: #e0218a;
   }
 
-  /* Large closing quotation mark */
+  /* Refined closing quotation mark */
   .quote blockquote::after {
     content: "”";
     position: absolute;
-    right: -55px;
-    bottom: -65px;
-    font-size: 7rem;
+    right: -38px;
+    bottom: -35px;
+    font-size: 3.5rem;
     line-height: 1;
     font-family: Georgia, serif;
+    font-weight: 400;
     color: #e0218a;
   }
 
   .quote figcaption {
-    margin-top: 25px;
-    color: #333;
-    font-size: 1.5rem;
-    font-style: normal;
-    font-weight: 500;
+    margin-top: 22px;
+    color: #444;
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 1rem;
+    font-style: italic;
+    font-weight: 400;
+    letter-spacing: 0.3px;
+  }
+
+  /* Responsive styling */
+  @media (max-width: 600px) {
+    .quote {
+      padding: 25px 35px;
+      margin: 35px auto;
+    }
+
+    .quote blockquote {
+      font-size: 1.15rem;
+    }
+
+    .quote blockquote::before {
+      left: -22px;
+      top: -20px;
+      font-size: 2.5rem;
+    }
+
+    .quote blockquote::after {
+      right: -22px;
+      bottom: -25px;
+      font-size: 2.5rem;
+    }
   }
 </style>
 
@@ -69,8 +100,6 @@ title: Home
   </blockquote>
   <figcaption>&mdash; Toni Morrison</figcaption>
 </figure>
-
-<!-- ========== NEWS ========== -->
 
 <!-- <div class="docs-section" id="bio">
   
