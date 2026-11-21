@@ -7,4 +7,6 @@ For many students, pursuing a PhD means entering a system no one around them has
 
 This Birds of a Feather (BoF) session invites undergraduate and master’s students who are curious about PhD programs or research careers and who may wish to navigate the process within a community. We also extend an invitation to faculty interested in learning how they can support prospective graduate students. During this one-hour BoF, facilitated by two graduate students and alumni of Minority-Serving Institutions (MSIs), we will lead a focused discussion about what feels unclear, inaccessible, or uncertain about pursuing a PhD in the current climate. Participants will name the information gaps they are navigating, share experiences from navigating the process thus far, and identify what kinds of support would make the process more transparent. Rather than providing answers from the front of the room, the session will center on collective contribution and resource exchange. Together, we will form peer connections that extend beyond the conference and into the application cycle.
 
-Please come back to this page mid-September for materials and updates!
+<div style="text-align: center;">
+  <img src="/assets/projects/2026_tapia/main.png" alt="A picture of Kaila Dawkin (on the left) and Ashlyn Campbell (on the right) smiling during a Birds of a Feather (BoF) at the 2026 ACM Richard Tapia Conference." style="max-width: 100%; width: 700px;">
+</div>
