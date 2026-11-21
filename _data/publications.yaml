@@ -2,7 +2,7 @@ papers:
   - title: "An Act of Hope: Black Women’s Motivations to Enter a Socio-Academic Counterspace"
     authors: "<b>Ashlyn Campbell</b>, Nannette Napier, Anu G. Bourgeois"
     venue: "ACM SIGCSE 2027"
-    paper_pdf: ""
+    paper_pdf: "/assets/publications/2027_sigcse/paper.pdf"
     selected: y
 
   - title: "The Double Bind: Understanding Equity in the Context of Generative AI in Computing Education"
